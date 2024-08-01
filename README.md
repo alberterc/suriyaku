@@ -1,8 +1,8 @@
 # Suriyaku
 
-A simple front end design of an a OCR + Translating application with a feature to embed other websites using <iframe>.
-
 *Learning project*
+
+A simple front end design of an a OCR + Translating application with a feature to embed other websites using <iframe>.
 
 ## Tech Stack
 - Node.js v22.3.0
